@@ -1,0 +1,4 @@
+flask>=3.0
+gunicorn>=22.0
+# optional, only if you want automatic transcription without an SRT:
+# faster-whisper
